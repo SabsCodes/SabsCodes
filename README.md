@@ -1,5 +1,3 @@
-<img src= "https://github.com/SabsCodes/SabsCodes/assets/141155893/874cbbe0-5394-4f0f-bae0-d8c01076f1ce)">
-
 # Olá, mundo! Me chamo Sabrina 😄
 
 Sou estudante de Ciência de Dados e Engenharia da Computação apaixonada pela área de dados.
@@ -11,7 +9,7 @@ Sou estudante de Ciência de Dados e Engenharia da Computação apaixonada pela 
 🚀 Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos em projetos significativos. Seja bem-vindo(a) ao meu perfil do GitHub!
 
 ## Tecnologias e Ferramentas 
- Tecnologia que já domino: 
+ Tecnologias que já domino: 
 
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![image](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 
